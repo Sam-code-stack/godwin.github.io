@@ -1,6 +1,12 @@
 body {
     background-color: white;
 }
+header {
+    background-color: black;
+    opacity: 1;
+    top: 5px;
+    height: 30px;
+}
 nav ul, footer ul {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
