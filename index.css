@@ -8,7 +8,7 @@ body {
 /*This is the section where we find our sign-in (username, password)*/
 .main {
     background-color: #FFFFFF;
-    width: 400px;
+    width: 330px;
     height: 400px;
     margin: 7em auto;
     border-radius: 1.5em;
